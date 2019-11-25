@@ -18,4 +18,7 @@
 	our implementation packaging, as well as our approach to the development model and potentially 
 	useful design patterns. Several interface contracts are described and exception handling of 
 	potential error states are discussed. 
-
+5. [**User Stories**](HW5-UserStories.pdf)
+	- The User Stories document details user stories provided by the project customer and their
+	deconstruction into agile development tasks. The tasks are prioritized based on customer input
+	and a plan is made for the first development cycle.
