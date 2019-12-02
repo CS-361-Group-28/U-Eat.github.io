@@ -22,3 +22,5 @@
 	- The User Stories document details user stories provided by the project customer and their
 	deconstruction into agile development tasks. The tasks are prioritized based on customer input
 	and a plan is made for the first development cycle.
+6. [**Agile Implementation Stage 1**](HW6-ImplementationStage1.pdf)
+	- The Impolementation Stage 1 document details our first week of agile development.
