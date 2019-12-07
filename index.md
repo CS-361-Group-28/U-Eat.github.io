@@ -23,4 +23,6 @@
 	deconstruction into agile development tasks. The tasks are prioritized based on customer input
 	and a plan is made for the first development cycle.
 6. [**Agile Implementation Stage 1**](HW6-ImplementationStage1.pdf)
-	- The Impolementation Stage 1 document details our first week of agile development.
+	- The Impplementation Stage 1 document details our first week of agile development.
+7. [**Agile Implementation Stage 2**](HW7-ImplementationStage2.pdf)
+	- The Implementation Stage 2 document details our final week of agile development.
